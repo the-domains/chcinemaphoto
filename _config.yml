@@ -1,0 +1,28 @@
+name: CHCinemaPhoto
+favicon: null
+layout_spectrum: 0.3446426340378821
+typography_spectrum: 0.7608120488002896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.25337626691907644
+  lightness: 0.08220084104686975
+  saturation: 0.09474798757582903
+  rhythmicContrast: 0.24023050582036376
+purpose: []
