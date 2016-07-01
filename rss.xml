@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[CHCinemaPhoto]]></title>
         <description><![CDATA[CHCinemaPhoto]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chcinemaphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 00:05:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 06:08:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chcinemaphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d2fd558-1f8b-4ffc-a4cf-828fe35ce6d0.jpg">]]></description>
-            <link>undefined636b4f18-aeb2-4bf2-a770-a7ce5f355735/index.html</link>
+            <link>https://thegrid.ai/chcinemaphoto/636b4f18-aeb2-4bf2-a770-a7ce5f355735/index.html</link>
             <guid isPermaLink="false">636b4f18-aeb2-4bf2-a770-a7ce5f355735</guid>
             <pubDate>Fri, 01 Jul 2016 00:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1973ce59-37b1-4aec-8e72-51c55bd2f569.jpg">]]></description>
+            <link>https://thegrid.ai/chcinemaphoto/another-beautiful-wedding/index.html</link>
+            <guid isPermaLink="false">94fdccf1-4ba7-4cf5-a53e-16dd5cb6923e</guid>
+            <pubDate>Fri, 01 Jul 2016 06:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
